@@ -10,7 +10,7 @@ sudo apt install git
 ```
 and/or
 ```bash
-apt install gh
+sudo apt install gh
 ```
 
 # Cloning 
