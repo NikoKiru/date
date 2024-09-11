@@ -21,6 +21,12 @@ git clone https://github.com/NikoKiru/date.git
 
 ## Installation
 
+# Move into directory
+```bash
+cd date
+```
+
+
 # Check the contents of the current directory
 ```bash
 ls
