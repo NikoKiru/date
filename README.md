@@ -13,7 +13,7 @@ and/or
 apt install gh
 ```
 
-# Then run
+# Cloning 
 ```bash
 git clone https://github.com/NikoKiru/date.git
 ``` 
@@ -42,7 +42,7 @@ After moving the script, make it executable by running
 sudo chmod +x /usr/local/bin/date
 ```
 
-# Runn the script:
+# Run the script:
 ```bash
 date
 ```
