@@ -14,6 +14,10 @@ sudo apt install gh
 ```
 
 # Cloning 
+```bash
+git init
+``` 
+then
 
 ```bash
 git clone https://github.com/NikoKiru/date.git
