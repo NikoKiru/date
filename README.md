@@ -6,9 +6,10 @@ This simple tool prints the current date and time.
 
 Check if date.py exists:
 ```bash
-tree```
+tree
+
 or
-```bash
+
 ls
 
 You shold see date.py listed in the output.
