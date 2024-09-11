@@ -2,15 +2,47 @@
 
 This simple tool prints the current date and time.
 
-## Installation
+## Before cloning
 
+make sure you have run 
 ```bash
-# Check the contents of the current directory
-ls
+sudo apt install git
+```
+and/or
+```bash
+apt install gh
 ```
 
-# Show the directory tree structure
-tree
+# Then run
+```bash
+git clone https://github.com/NikoKiru/date.git
+``` 
+
+## Installation
+
+# Check the contents of the current directory
+```bash
+ls
+```
+You should see date.py listed in the output
 
 # Move the Python script to /usr/local/bin
+```bash
 sudo mv date.py /usr/local/bin/date
+```
+## IMPORTANT
+make sure to remove .py extension when moving file so that it can be executed as
+```bash
+date
+```
+
+# Make the script executable:
+After moving the script, make it executable by running 
+```bash
+sudo chmod +x /usr/local/bin/date
+```
+
+# Runn the script:
+```bash
+date
+```
