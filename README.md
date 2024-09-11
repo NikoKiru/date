@@ -8,12 +8,13 @@ make sure you have run
 ```bash
 sudo apt install git
 ```
-and/or
+and
 ```bash
 sudo apt install gh
 ```
 
 # Cloning 
+
 ```bash
 git clone https://github.com/NikoKiru/date.git
 ``` 
