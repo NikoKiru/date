@@ -4,17 +4,12 @@ This simple tool prints the current date and time.
 
 ## Installation
 
-Check if date.py exists:
 ```bash
-tree
-
-or
-
+# Check the contents of the current directory
 ls
 
-You shold see date.py listed in the output.
+# Show the directory tree structure
+tree
 
-To install, move the script to a directory in your PATH, such as `/usr/local/bin`:
-
-```bash
+# Move the Python script to /usr/local/bin
 sudo mv date.py /usr/local/bin/date
