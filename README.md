@@ -7,6 +7,7 @@ This simple tool prints the current date and time.
 ```bash
 # Check the contents of the current directory
 ls
+```
 
 # Show the directory tree structure
 tree
