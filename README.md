@@ -7,4 +7,4 @@ This simple tool prints the current date and time.
 To install, move the script to a directory in your PATH, such as `/usr/local/bin`:
 
 ```date
-sudo mv date.py /usr/local/bin/my_program
+sudo mv date.py /usr/local/bin/date
